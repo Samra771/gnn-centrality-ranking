@@ -1,12 +1,4 @@
-"""
-Figure 3: Real-world validation of GNN-based centrality approximation
 
-Panels:
-a) 3D C. Elegans-like neural network
-b) 3D Email-Eu-Core-like communication network
-c) 3D Power-grid-like spatial network
-d) Premium grouped bar plot for zero-shot transfer performance
-"""
 
 import os
 import numpy as np
